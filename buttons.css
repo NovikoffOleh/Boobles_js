@@ -9,7 +9,7 @@ background-color: aqua;
 
 .btn {
     position: absolute;
-    padding: 50px 20px;
+    padding: 18px 5px;
     border-radius: 50%;
     border: none;
     top: 30px;
@@ -18,7 +18,7 @@ background-color: aqua;
     background-color: blue;
     outline: none;
     text-transform: capitalize;
-    font-size: 30px;
+    font-size: 10px;
     transition: 0.3s ease all;
     /*transform: translate(-50%);*/
    
