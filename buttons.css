@@ -9,7 +9,7 @@ background-color: aqua;
 
 .btn {
     position: absolute;
-    padding: 18px 5px;
+    padding: 11px 5px;
     border-radius: 50%;
     border: none;
     top: 30px;
@@ -27,11 +27,20 @@ background-color: aqua;
   .win {
     background-color: green;
   }
+
+  .winw {
+    background-color: rgb(32, 143, 134);
+  }
   
   .faill {
     background-color: red;
   }
-  
+  .faillw {
+    background-color: rgb(238, 51, 126);
+  }
+  .dangerw {
+    background-color: rgb(219, 222, 39);
+  }
   .danger {
     background-color: brown;
   }
