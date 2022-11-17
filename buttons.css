@@ -1,7 +1,11 @@
-.container {
+/*.container {
   background-color:rgb(230, 175, 109);
   border-color: brown;
-  }
+  }*/
+.color{
+background-color: aqua;
+
+}
 
 .btn {
     position: absolute;
