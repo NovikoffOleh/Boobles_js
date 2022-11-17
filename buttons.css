@@ -1,0 +1,74 @@
+.container {
+  background-color:rgb(230, 175, 109);
+  border-color: brown;
+  }
+
+.btn {
+    position: absolute;
+    padding: 50px 20px;
+    border-radius: 50%;
+    border: none;
+    top: 30px;
+    left: 50%;
+    color: #fff;
+    background-color: blue;
+    outline: none;
+    text-transform: capitalize;
+    font-size: 30px;
+    transition: 0.3s ease all;
+    /*transform: translate(-50%);*/
+   
+  }
+  
+  .win {
+    background-color: green;
+  }
+  
+  .faill {
+    background-color: red;
+  }
+  
+  .danger {
+    background-color: brown;
+  }
+  
+  .atention {
+    background-color: yellowgreen;
+  }
+  
+  .section {
+    margin-bottom: 40px;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .gray {
+    background-color: gray;
+  }
+  
+  .black {
+    background-color: black;
+  }
+  
+  /* .list__item {
+      transition: 1s;
+  } */
+  
+  /* .change {
+      color: red;
+      font-size: 50px;
+      font-weight: 700;
+  }
+  .hide {
+      display: none;
+  } */
